@@ -5,7 +5,7 @@ import {downloadImage} from '../utils';
 
 //展示一张图片，图片信息来自 MongoDB Atlas
 const Card = ({_id, name, prompt, photo}) => (
-    <div className="rounded-xl group relative shadow-card hover:shadow-cardhover card">
+    <div className="rounded-xl group relative  shadow-card hover:shadow-cardhover card">
         <a href={photo} target={"_blank"} >
         <img
             className="w-full h-auto object-cover rounded-xl"
