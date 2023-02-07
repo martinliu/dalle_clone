@@ -5,8 +5,8 @@
 I am building with:
 
 1. the powerful MERN stack Node.js, Express.js, MongoDB, and React.js together. 
-     * front vit
-     * backend express
+     * vite, react, tailwindcss
+     * express, mongoose, openai, cloudinary
 2. the most popular CSS framework Tailwind.
 3. OpenAI's DALL-E model: A deep learning model that generates images from text input
     * different scales for my blog.
